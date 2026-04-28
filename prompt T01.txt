@@ -1,0 +1,4 @@
+saya ingin mengerjakan tugas java dimana pada tugas java ini kami diberikan 3 soal, kode soal 1 harus diisi pada driver1.java dan memiliki model yaitu model 1.java begitu terus sampai 3 soal jadi saya akan memberikan kamu soal dan berikan saya kode nya
+berikut gambarnya
+terdapat error pada saat compile tolong perbaiki
+berikan full code perbaikan

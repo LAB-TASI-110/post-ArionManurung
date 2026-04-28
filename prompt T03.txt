@@ -1,0 +1,7 @@
+kami disuruh untuk mengerjakan tugas dimana pada tugas ini kami disuruh untuk membuat sistem yang mendukung poerasional kafetaria it del
+saya akan menjelaskan kafetaria ini, kafetaria it del merupakan sebuah tempat untuk kita memesan makanan
+cara pemesanan makan di kafetaria ini kita datang ke kasir lalu mereka mencatat melalui buku dan kita langsung membayar. Setelah kita bayar kita akan duduk di kafetaria ini sambil menunggu nama kita dipanggil ketika pesanan kita sudah siap untuk diambil. 
+jadi pada soal ini kami diberikan driver dan model dimana kode pada soal diatas akan dibuat ke driver dan model. Tolong berikan code untuk soal diatas
+tidak seperti itu, jadi kode ini harus dibuat ke driver3.java dan model3.java cukup2 fileotu saja yg perlu kamu beriakan dan saya akan berikan kamu cara run nya agar kamu mengetahui struktur nya
+javac src/model/*.java src/driver/*.java -d bin
+cd bin && java driver.Driver3
